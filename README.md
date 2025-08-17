@@ -97,7 +97,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; align-items: stretch; gap: 20px;">
+<div style="display: flex; align-items: stretch; gap: 40px;">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Farhan41229&theme=dark" alt="GitHub Streak" style="height: 165px; " /></a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan41229&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages">
