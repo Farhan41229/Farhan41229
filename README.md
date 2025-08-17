@@ -98,7 +98,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhan41229&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Farhan41229&theme=dark&card_width=300" alt="GitHub Streak" /></a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan41229&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages">
 </div>
